@@ -1,0 +1,8 @@
+torch
+transformers
+easyocr
+paddleocr
+opencv-python
+matplotlib
+pandas
+numpy
